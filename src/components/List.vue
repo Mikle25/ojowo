@@ -41,7 +41,7 @@ export default {
       const month = this.monthes[dateRegistration.getMonth()];
       const day = dateRegistration.getDate();
 
-      return `${month} ${day}, ${year}`;
+      return `${month} ${day}, ${year} г.`;
     },
   },
 };
