@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "name": "User1",
+    "registration": "2020-09-25T00:00:00.000Z",
+    "activity": "2020-09-28T00:00:00.000Z",
+    "action": "view_landing_course1",
+    "product": "Как наладить отнош",
+    "select": false
+  },
+  {
+    "id": "2",
+    "name": "User2",
+    "registration": "2020-09-25T00:00:00.000Z",
+    "activity": "2020-09-28T00:00:00.000Z",
+    "action": "view_landing_course1",
+    "product": "Как наладить отнош",
+    "select": false
+  },
+  {
+  "id": "3",
+  "name": "User3",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "4",
+  "name": "User4",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "5",
+  "name": "User5",
+  "registration": "2020-09-15T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "6",
+  "name": "User6",
+  "registration": "2020-09-15T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "7",
+  "name": "User7",
+  "registration": "2020-09-15T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+
+  {
+  "id": "8",
+  "name": "User8",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "9",
+  "name": "User9",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "10",
+  "name": "User10",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "11",
+  "name": "User11",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "12",
+  "name": "User12",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "13",
+  "name": "User13",
+  "registration": "2020-09-25T00:00:00.000Z",
+  "activity": "2020-09-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "14",
+  "name": "User14",
+  "registration": "2020-02-25T00:00:00.000Z",
+  "activity": "2020-02-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "15",
+  "name": "User15",
+  "registration": "2020-02-25T00:00:00.000Z",
+  "activity": "2020-02-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "16",
+  "name": "User16",
+  "registration": "2020-07-25T00:00:00.000Z",
+  "activity": "2020-07-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "17",
+  "name": "User17",
+  "registration": "2020-07-25T00:00:00.000Z",
+  "activity": "2020-07-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "18",
+  "name": "User18",
+  "registration": "2020-08-25T00:00:00.000Z",
+  "activity": "2020-08-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "19",
+  "name": "User19",
+  "registration": "2020-08-25T00:00:00.000Z",
+  "activity": "2020-08-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  },
+  {
+  "id": "20",
+  "name": "User20",
+  "registration": "2020-08-25T00:00:00.000Z",
+  "activity": "2020-08-28T00:00:00.000Z",
+  "action": "view_landing_course1",
+  "product": "Как наладить отнош",
+  "select": false
+  }
+]
